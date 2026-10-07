@@ -43,6 +43,8 @@ One theme for any professional: developer, engineer, designer, doctor, teacher, 
 | **SprasaAds Pro** | Targeting rules, A/B testing and priority support |
 | **Sprasa Maintenance** | Maintenance and coming-soon mode with 5 editable templates, countdown, subscriber sign-up, scheduling, access control and a search-friendly 503 status |
 | **Sprasa Portfolio Core** | Content types for the portfolio theme |
+| **AdForge** | Enterprise ad manager for high-traffic news sites and the tagDiv Newspaper theme: every ad, zone, campaign and rotation from one dashboard, without editing theme files |
+| **SprasaSocial** | Facebook comments box on posts and pages, with placement settings, a shortcode and a per-post off switch |
 
 ## Also on WordPress
 

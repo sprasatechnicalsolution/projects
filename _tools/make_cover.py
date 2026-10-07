@@ -6,6 +6,7 @@ Usage:  python _tools/make_cover.py <project-folder> [<project-folder> ...]
 project.json fields:
   name, tagline, category, client, year, status, stack[], highlights[],
   shot (optional: image path relative to the project folder, shown on the right),
+  fit (optional: "cover" (default) or "contain" for logos and wide banners),
   accent (optional hex colour)
 """
 import html
@@ -41,7 +42,10 @@ def build_html(meta, folder):
     shot = meta.get("shot")
     right = ""
     if shot and (folder / shot).exists():
-        right = f'<div class=shot><img src="{(folder / shot).resolve().as_uri()}"></div>'
+        fit = meta.get("fit", "cover")
+        style = f"object-fit:{fit}" + (";object-position:center;background:#e9eaee" if fit == "contain" else "")
+        right = (f'<div class=shot><img style="{style}" '
+                 f'src="{(folder / shot).resolve().as_uri()}"></div>')
     width_left = "760px" if right else "1360px"
     return f"""<!doctype html><meta charset=utf-8><style>
 *{{box-sizing:border-box;margin:0;padding:0}}

@@ -1,0 +1,17 @@
+{
+  "name": "Media & Advertising Tools",
+  "tagline": "Tools that help news portals sell and run advertising: an online ad booking form, an enterprise ad manager for WordPress, and a background remover for ad graphics.",
+  "category": "Media tools",
+  "year": "2023–2026",
+  "status": "Complete",
+  "stack": ["PHP", "WordPress", "JavaScript", "HTML / CSS"],
+  "highlights": [
+    "Advertisers book ad type, placement and duration online",
+    "AdForge: zones, campaigns and rotation for news sites",
+    "Works with the tagDiv Newspaper theme, no theme edits",
+    "SprasaSocial: Facebook comments on posts and pages",
+    "Background remover for quick ad and product images"
+  ],
+  "shot": "screenshots/01-advertise-form.jpg",
+  "accent": "#0b57d0"
+}

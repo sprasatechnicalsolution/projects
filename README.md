@@ -59,7 +59,8 @@ Each folder is a **client-facing overview** of one project: what the client need
 |---|---|---|
 | <img src="sprasa-media-cms/overview.jpg" width="160"> | [Sprasa Media News CMS](sprasa-media-cms/) | News portal platform with newsroom workflow, ad engine and AI tools |
 | <img src="nepali-news-websites/overview.jpg" width="160"> | [Nepali News Websites](nepali-news-websites/) | Fastkhabar Online and Nepal Sandes (WordPress) |
-| <img src="wordpress-themes-plugins/overview.jpg" width="160"> | [Sprasa WordPress Themes & Plugins](wordpress-themes-plugins/) | News and portfolio themes; SEO, ads and maintenance plugins |
+| <img src="wordpress-themes-plugins/overview.jpg" width="160"> | [Sprasa WordPress Themes & Plugins](wordpress-themes-plugins/) | News and portfolio themes; SEO, ads, comments and maintenance plugins |
+| <img src="media-advertising-tools/overview.jpg" width="160"> | [Media & Advertising Tools](media-advertising-tools/) | Ad booking form, AdForge ad manager, SprasaSocial, background remover |
 
 ### Design and marketing
 
@@ -76,6 +77,7 @@ Each folder is a **client-facing overview** of one project: what the client need
 | <img src="pradipsubedi1-website/overview.jpg" width="160"> | [pradipsubedi1.com.np](pradipsubedi1-website/) | Personal brand site with Nepali Unicode, CV maker, calendar and SLD tools |
 | <img src="portfolio-cms-template/overview.jpg" width="160"> | [Portfolio CMS Template](portfolio-cms-template/) | Portfolio website with a full admin panel, for any professional |
 | <img src="engineer-portfolio-fastapi/overview.jpg" width="160"> | [Engineer Portfolio (FastAPI)](engineer-portfolio-fastapi/) | Python portfolio and publishing platform |
+| <img src="early-web-projects/overview.jpg" width="160"> | [Early Web Projects](early-web-projects/) | Flight enquiry system, client portfolio, member portal, house design site, G-Shop branding |
 
 ### Open-source tools
 
@@ -119,7 +121,9 @@ Ready-to-adapt solutions based on the work above:
 **Pradip Subedi · Sprasa Technical Solution**
 Ratnanagar-10, Chitwan, Nepal
 Website: [sprasatechnicalsolution.com.np](https://sprasatechnicalsolution.com.np) · [pradipsubedi1.com.np](https://pradipsubedi1.com.np)
-GitHub: [@sprasapradip](https://github.com/sprasapradip)
+GitHub: [@sprasatechnicalsolution](https://github.com/sprasatechnicalsolution) · [@sprasapradip](https://github.com/sprasapradip)
+
+© 2023–2026 Sprasa Technical Solution Pvt. Ltd. All rights reserved. See [LICENSE](LICENSE).
 
 <!--
 Maintainer notes
@@ -159,8 +163,11 @@ Maintainer notes
   underground-cable-fault-detection <- (GitHub) underground-transmission-line-fault-detection-using-ann
   mapping-projects                  <- (GitHub) Smart-Municipality, smart, bloodmap, osm_bosc, OSMProject
   engineering-student-projects      <- (GitHub) qr_reader, machine-learning, nepse, robofootball
-- Not showcased: sprasa-invoice and sprasa-invoice-management (appear to be third-party/tutorial code), drafts, sprasamedia - Copy,
-  "pradipsubedi dont open", personal/private repos (documents, mydetail, birthdaywish, award-archivements), practice repos
-  (pandas, pythonclass, pythonproj, pythonp, jupyter*, machine_learning, laravel-test, git-file, webpage, website, housedesign,
-  electric_bharatpur, utechclub, osm) and forks (Chatbot, MSc-Dissertation-2021, SchoolErp, UdacityOpenSource, SmartMunicipality_*).
+  media-advertising-tools           <- (GitHub) sprasamedia (advertisement_form, Bg-Remover), wordpress-data (adforge, sprasasocial)
+  early-web-projects                <- (GitHub) website (travel, gshop), samikshya, webpage, housedesign
+- Not showcased: sprasa-invoice and sprasa-invoice-management (appear to be third-party/tutorial code), website/Ecommerce
+  (HTML Codex template), engineeringnotes (removed on request), drafts, sprasamedia - Copy, "pradipsubedi dont open",
+  personal/private repos (documents, mydetail, birthdaywish, award-archivements), practice repos (pandas, pythonclass,
+  pythonproj, pythonp, jupyter*, machine_learning, laravel-test, git-file, electric_bharatpur (empty), utechclub, osm)
+  and forks (Chatbot, MSc-Dissertation-2021, SchoolErp, UdacityOpenSource, SmartMunicipality_*).
 -->

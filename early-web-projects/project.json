@@ -1,0 +1,18 @@
+{
+  "name": "Early Web Projects",
+  "tagline": "Where Sprasa started: a flight enquiry system, a personal portfolio for a client, a member portal with login, a house design site and G-Shop gift shop branding.",
+  "category": "Websites & branding",
+  "year": "2023–2024",
+  "status": "Complete",
+  "stack": ["PHP", "MySQL", "HTML / CSS", "JavaScript", "Graphic design"],
+  "highlights": [
+    "Flight enquiry system with admin inbox",
+    "Personal portfolio site built for a client",
+    "Member portal: register, login, password reset",
+    "House design showcase site",
+    "G-Shop gift shop logo and banner"
+  ],
+  "shot": "screenshots/g-shop-logo.jpg",
+  "fit": "contain",
+  "accent": "#9333ea"
+}
