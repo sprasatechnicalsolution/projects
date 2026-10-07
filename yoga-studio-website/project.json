@@ -1,0 +1,17 @@
+{
+  "name": "Shanti Yoga Studio",
+  "tagline": "A calm website for a yoga studio in Pokhara: class schedule, teachers, philosophy pages, retreats with seat booking, and an admin panel.",
+  "category": "Website + CMS",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["PHP 8", "MySQL", "Custom MVC", "cPanel hosting"],
+  "highlights": [
+    "Class schedule with levels, times and teachers",
+    "Teacher profiles and philosophy pages",
+    "Retreats with online seat booking",
+    "Blog and contact inbox",
+    "Admin panel to edit everything, no code needed"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#5b6b4f"
+}

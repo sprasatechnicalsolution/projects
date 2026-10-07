@@ -1,0 +1,17 @@
+{
+  "name": "Sprasa Business Platform",
+  "tagline": "Company website, online shop, online courses, news CMS, client portal and IRD-aligned billing and purchases, all in one platform.",
+  "category": "Business platform",
+  "year": "2026",
+  "status": "26 phases complete",
+  "stack": ["React", "TypeScript", "Node.js", "Express", "Prisma", "PostgreSQL", "eSewa", "Khalti"],
+  "highlights": [
+    "Shop with cart, coupons, eSewa / Khalti / bank / COD",
+    "Online courses with lessons, quizzes and certificates",
+    "IRD-aligned invoices, credit notes, VAT, receipts with TDS",
+    "Quotations, client portal and support tickets",
+    "Purchases: suppliers, bills, payments, TDS, VAT reports"
+  ],
+  "shot": "screenshots/06-admin-dashboard.jpg",
+  "accent": "#1e40af"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pharmacy & Hospital ERP",
+  "tagline": "One platform for pharmacies, clinics and retail: products, batch stock with expiry, purchasing, sales, prescriptions and hospital OPD/IPD.",
+  "category": "Enterprise ERP",
+  "year": "2026",
+  "status": "Phase 5 complete",
+  "stack": ["Python", "Django", "Django REST", "PostgreSQL", "Celery", "Docker"],
+  "highlights": [
+    "Batch stock with first-expiry-first-out selling",
+    "Prescriptions, drug interaction warnings, controlled drug log",
+    "Purchase orders, sales, invoices and payments",
+    "Hospital: patients, appointments, admissions, lab, billing",
+    "17 roles, multi-company and multi-branch, REST API"
+  ],
+  "shot": "screenshots/01-dashboard.jpg",
+  "accent": "#4f46e5"
+}

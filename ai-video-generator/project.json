@@ -1,0 +1,15 @@
+{
+  "name": "AI Video Generator",
+  "tagline": "A local AI tool that turns a text prompt into a finished video, with a job queue so long renders run in the background.",
+  "category": "AI tool",
+  "year": "2026",
+  "status": "In development",
+  "stack": ["Python", "FFmpeg", "PHP", "MySQL", "AI models"],
+  "highlights": [
+    "Write a prompt, get a rendered video",
+    "Background job queue with progress tracking",
+    "FFmpeg pipeline for clips, audio and captions",
+    "Runs locally, so content stays on your machine"
+  ],
+  "accent": "#9333ea"
+}

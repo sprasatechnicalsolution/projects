@@ -1,0 +1,17 @@
+{
+  "name": "Sprasa Travel",
+  "tagline": "An online travel agency platform: search flights, confirm the fare with the airline, pay online and receive a real PNR and e-ticket.",
+  "category": "Travel booking platform",
+  "year": "2026",
+  "status": "Built, demo-ready",
+  "stack": ["Laravel 12", "React 19", "TypeScript", "PostgreSQL", "Redis", "eSewa", "Khalti"],
+  "highlights": [
+    "Flight search, filters and live fare re-check",
+    "Pay by eSewa, Khalti, QR or bank transfer",
+    "Real airline PNR and PDF e-ticket by email and SMS",
+    "Admin: bookings, payment checks, markups, profit reports",
+    "Ready for Travelport, Sabre, Amadeus and local suppliers"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#1d4ed8"
+}

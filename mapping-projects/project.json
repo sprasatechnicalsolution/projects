@@ -1,0 +1,15 @@
+{
+  "name": "OpenStreetMap Projects",
+  "tagline": "Map-based web apps: Smart Municipality services on OpenStreetMap, a Blood Map that connects patients with nearby donors, and route mapping.",
+  "category": "GIS / mapping",
+  "year": "2023",
+  "status": "Team and student projects",
+  "stack": ["OpenStreetMap", "Leaflet.js", "PHP", "JavaScript", "MySQL"],
+  "highlights": [
+    "Smart Municipality: city services on a live map",
+    "Blood Map: patients and donors by blood group and location",
+    "Route maps with satellite view",
+    "Search by blood group or place, notify nearby donors"
+  ],
+  "accent": "#15803d"
+}

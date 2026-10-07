@@ -1,0 +1,17 @@
+{
+  "name": "Antarbodh Yoga & Healing",
+  "tagline": "A calm, premium website for a yoga therapy and healing studio in Kathmandu, with online appointment booking and an admin panel.",
+  "category": "Website + Booking",
+  "year": "2026",
+  "status": "Complete (v2)",
+  "stack": ["Node.js", "Express 5", "EJS", "MySQL", "Docker"],
+  "highlights": [
+    "Rebuilt from WordPress/Elementor into a fast, secure custom app",
+    "Clients pick a service, date and time slot and book themselves",
+    "Booking reference with manage and cancel link",
+    "Admin: bookings, status workflow, weekly availability, closed dates",
+    "Smooth motion design that works on phones"
+  ],
+  "shot": "screenshots/home-hero.jpg",
+  "accent": "#7c5a3a"
+}

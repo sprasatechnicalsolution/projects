@@ -1,0 +1,17 @@
+{
+  "name": "Portfolio CMS Template",
+  "tagline": "A ready-made portfolio website with a full admin panel, so any professional can edit their profile, projects, blog, services and CV without touching code.",
+  "category": "Website template",
+  "year": "2026",
+  "status": "Reusable product",
+  "stack": ["PHP", "MySQL", "Quill editor", "PHPMailer"],
+  "highlights": [
+    "Home, projects, experience, services, blog, contact",
+    "Admin edits everything: profile, hero, skills, CV",
+    "Rich text editor with AI writing help",
+    "Dark / light theme and mobile menu",
+    "CSRF protection, login lockout, caching"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#38bdf8"
+}

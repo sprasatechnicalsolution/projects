@@ -1,0 +1,18 @@
+{
+  "name": "The Everest Kennel",
+  "tagline": "Website, online pet shop, service booking and admin panel for a pet shop, kennel, vet home service and animal shelter in Kathmandu.",
+  "category": "E-commerce + Booking",
+  "client": "The Everest Kennel, Kathmandu",
+  "year": "2026",
+  "status": "Live-ready",
+  "stack": ["Node.js", "TypeScript", "Express", "Prisma", "MySQL", "Tailwind CSS", "eSewa", "Khalti"],
+  "highlights": [
+    "Online shop with eSewa, Khalti and cash on delivery",
+    "Puppy listings with health records and WhatsApp enquiry",
+    "Vet house calls, boarding and grooming booking with live slots",
+    "SMS vaccination reminders for every customer pet",
+    "Full admin: orders, stock, calendar, boarding, reports"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#0f766e"
+}

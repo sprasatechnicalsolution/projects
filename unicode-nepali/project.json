@@ -1,0 +1,17 @@
+{
+  "name": "Nepali Unicode Converter",
+  "tagline": "Convert Nepali text between Preeti, Romanized and Unicode in the browser, Node, PHP, Laravel or WordPress, with nothing uploaded.",
+  "category": "Open-source tool",
+  "year": "2026",
+  "status": "v2.0.0, open source",
+  "stack": ["JavaScript", "PHP", "WordPress", "PWA", "Zero dependencies"],
+  "highlights": [
+    "Preeti ⇄ Unicode with correct conjuncts and reph",
+    "Phonetic typing: namaste → नमस्ते",
+    "Nepali slugs for clean URLs, lakh/crore numbers",
+    "Web app, embeddable widget, CLI, PHP and WordPress",
+    "Runs on the user's device, works offline"
+  ],
+  "shot": "screenshots/app-light.jpg",
+  "accent": "#b91c1c"
+}

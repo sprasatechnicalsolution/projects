@@ -1,0 +1,16 @@
+{
+  "name": "Engineer Portfolio (FastAPI)",
+  "tagline": "A fast, secure portfolio and publishing platform for an electrical engineer working on ropeways and small hydro, built in Python.",
+  "category": "Portfolio platform",
+  "year": "2026",
+  "status": "6 phases complete",
+  "stack": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+  "highlights": [
+    "Projects and engineering notes with Markdown editor",
+    "Media library with responsive images",
+    "Scheduled publishing, revisions and editorial review",
+    "Full-text search and auto-generated social cards",
+    "Verified backups, monitoring and newsletter"
+  ],
+  "accent": "#059669"
+}

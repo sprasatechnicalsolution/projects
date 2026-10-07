@@ -1,0 +1,16 @@
+{
+  "name": "AI Skills Pack",
+  "tagline": "Ten premium skills for AI coding agents like Claude Code, each with a clear workflow and offline quality checks.",
+  "category": "AI tools, open source",
+  "year": "2026",
+  "status": "Open source",
+  "stack": ["Python", "Markdown", "Claude Code", "Cursor", "Gemini CLI"],
+  "highlights": [
+    "Landing pages, portfolios, resumes, PDFs, emails",
+    "SEO blog writer and text humanizer",
+    "Code cleaner and README generator",
+    "Every skill has offline checking scripts",
+    "Starter, Pro and Enterprise levels"
+  ],
+  "accent": "#d97706"
+}

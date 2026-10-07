@@ -1,0 +1,17 @@
+{
+  "name": "Study Lane Chitwan",
+  "tagline": "Study-abroad consultancy website with a built-in CRM for leads, students, applications and documents.",
+  "category": "Education consultancy",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["PHP 8.2", "MySQL", "cPanel hosting", "SEO / JSON-LD"],
+  "highlights": [
+    "Destinations, universities, IELTS / PTE / TOEFL prep pages",
+    "Online consultation booking with free time slots",
+    "Lead and student CRM with application status timeline",
+    "Document management and role-based staff access",
+    "Strong SEO: structured data, sitemap, editor SEO checklist"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#1e4fa3"
+}

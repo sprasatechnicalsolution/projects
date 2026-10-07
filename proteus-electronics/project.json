@@ -1,0 +1,17 @@
+{
+  "name": "Proteus Electronics Projects",
+  "tagline": "15 electronics and embedded projects designed and simulated in Proteus: traffic signals for 8 junctions, water tank control, smart street lights, parking and more.",
+  "category": "Electronics & IoT",
+  "year": "2023–2026",
+  "status": "Tested in simulation",
+  "stack": ["Proteus 8", "Arduino / ATmega328P", "8051", "C / C++", "PCB design"],
+  "highlights": [
+    "Traffic light controller with field install guides for 8 sites",
+    "Water tank level controller with dry-run protection",
+    "Gas / smoke detector that sends SMS",
+    "Smart street light, parking system, railway crossing",
+    "Every project has firmware, HEX, wiring and an automatic test"
+  ],
+  "shot": "screenshots/01_junction_layout.jpg",
+  "accent": "#0b7a75"
+}

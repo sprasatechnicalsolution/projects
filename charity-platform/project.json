@@ -1,0 +1,17 @@
+{
+  "name": "Sahara Nepal Charity Foundation",
+  "tagline": "A donation website for a community charity in Chitwan: online giving, a public supporters board, projects, albums and a donor management panel.",
+  "category": "Non-profit website",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["Laravel", "PHP", "MySQL", "Stripe", "Bootstrap"],
+  "highlights": [
+    "Online donations with card payments",
+    "Public supporters leaderboard (donors choose to be listed)",
+    "Projects, trustees and photo albums",
+    "Admin: donations, status, CSV export, enquiries",
+    "Payment gateway settings with a test button"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#e8590c"
+}

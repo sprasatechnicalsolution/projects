@@ -1,0 +1,17 @@
+{
+  "name": "Maulakali Cable Car Store ERP",
+  "tagline": "Spare parts, stock, equipment and maintenance management for the Maulakali Cable Car (Doppelmayr) in Gaindakot.",
+  "category": "Enterprise ERP",
+  "year": "2026",
+  "status": "Complete, security-audited",
+  "stack": ["Laravel 12", "Livewire 3", "Tailwind CSS", "MySQL", "ApexCharts"],
+  "highlights": [
+    "Stock ledger with batches, locations, transfers and audits",
+    "Equipment register linked to spare parts",
+    "Preventive and corrective maintenance work orders",
+    "Reads Doppelmayr wiring PDFs and lists the real components",
+    "2FA, role permissions and a full audit trail"
+  ],
+  "shot": "screenshots/01-dashboard.jpg",
+  "accent": "#2563eb"
+}

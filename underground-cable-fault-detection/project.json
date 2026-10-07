@@ -1,0 +1,16 @@
+{
+  "name": "Underground Cable Fault Detection",
+  "tagline": "Finding, classifying and locating faults in underground transmission cables with neural networks, tested on the IEEE 9-bus system.",
+  "category": "Research / final-year project",
+  "year": "2024",
+  "status": "Completed (B.E. major project)",
+  "stack": ["MATLAB", "Simulink", "Neural networks", "Deep learning"],
+  "highlights": [
+    "Detects that a fault has happened",
+    "Classifies the fault type",
+    "Estimates the fault location along the cable",
+    "Tested on the IEEE 9-bus system",
+    "Faster and more accurate than traditional methods"
+  ],
+  "accent": "#0369a1"
+}

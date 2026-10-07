@@ -1,0 +1,17 @@
+{
+  "name": "Sprasa Technical Solution Website",
+  "tagline": "Our company website and back office in one: the public site sells the work, and the admin runs enquiries, quotations, invoices, payments and renewals.",
+  "category": "Company website + back office",
+  "year": "2026",
+  "status": "Live",
+  "stack": ["PHP 8.2", "MySQL", "Custom MVC", "eSewa", "Khalti"],
+  "highlights": [
+    "Rate card on the site read live from billing",
+    "Clients open and accept quotations online",
+    "Pay an invoice by eSewa or Khalti from a link",
+    "Free Preeti ⇄ Unicode Nepali converter",
+    "Portfolio, blog, FAQ and SEO tools built in"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#6d28d9"
+}

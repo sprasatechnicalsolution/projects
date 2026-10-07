@@ -1,0 +1,16 @@
+{
+  "name": "Small Tools & Web Widgets",
+  "tagline": "Quick, useful builds: HTML email signatures, a live-stream digital clock, login and sign-up screens, and browser games.",
+  "category": "Small builds",
+  "year": "2023–2025",
+  "status": "Open source",
+  "stack": ["HTML", "CSS", "JavaScript", "Python"],
+  "highlights": [
+    "Professional HTML email signatures (3 styles)",
+    "Digital clock overlay for live streaming",
+    "Login / sign-up UI template",
+    "Snake game (Python) and chess"
+  ],
+  "shot": "screenshots/email-signature.jpg",
+  "accent": "#475569"
+}

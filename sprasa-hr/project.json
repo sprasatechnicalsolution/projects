@@ -1,0 +1,17 @@
+{
+  "name": "Sprasa HR",
+  "tagline": "HR and payroll software built for Nepali organisations: employees, attendance, leave, payroll with Nepali tax, payslips and 21 reports.",
+  "category": "SaaS product",
+  "year": "2026",
+  "status": "Product",
+  "stack": ["React 19", "TypeScript", "Node.js", "Express 5", "Prisma", "PostgreSQL"],
+  "highlights": [
+    "Employee records with PAN, citizenship, SSF / PF / CIT",
+    "Shifts, late / overtime minutes, self check-in",
+    "Leave workflow with balances and approvals",
+    "Payroll: Nepali tax slabs, SSF, payslips, Shrawan fiscal year",
+    "21 reports, export to Excel and PDF"
+  ],
+  "shot": "screenshots/01-landing.jpg",
+  "accent": "#0f766e"
+}

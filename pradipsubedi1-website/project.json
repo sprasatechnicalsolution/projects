@@ -1,0 +1,17 @@
+{
+  "name": "pradipsubedi1.com.np",
+  "tagline": "Personal brand website for an electrical engineer, with free online tools: Nepali Unicode, CV maker, Nepali calendar and a single-line diagram generator.",
+  "category": "Personal brand + tools",
+  "year": "2026",
+  "status": "Live",
+  "stack": ["PHP", "MySQL", "PWA", "Google OAuth", "Page builder"],
+  "highlights": [
+    "Portfolio, engineering blog and services",
+    "Free tools: Nepali Unicode, CV maker, Nepali calendar",
+    "Single-line diagram (SLD) generator for engineers",
+    "Drag-and-drop page builder and theme manager",
+    "Security audit done, 39-table database"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#0ea5e9"
+}

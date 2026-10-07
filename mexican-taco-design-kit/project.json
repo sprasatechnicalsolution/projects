@@ -1,0 +1,17 @@
+{
+  "name": "Mexican Taco Design Kit",
+  "tagline": "170 editable Photoshop designs for a restaurant in Australia: social posts, stories, ads, web banners and print-ready A4 menus.",
+  "category": "Graphic design & branding",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["Photoshop PSD", "Print 300 DPI", "Social media formats"],
+  "highlights": [
+    "170 layered designs, every word editable",
+    "Facebook / Instagram posts, stories and covers",
+    "A4 print menus and promos at 300 DPI with bleed",
+    "Built from the restaurant's own food photos",
+    "12 premium layout styles in the house brand"
+  ],
+  "shot": "screenshots/CONTACT-SHEET-PREMIUM-SQUARE.jpg",
+  "accent": "#b45309"
+}

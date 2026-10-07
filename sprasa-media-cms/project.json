@@ -1,0 +1,17 @@
+{
+  "name": "Sprasa Media News CMS",
+  "tagline": "A Nepali news portal platform: editorial workflow, ad engine, AI editor tools, SEO, comments and reactions, installable as an app.",
+  "category": "News portal / CMS",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["Laravel 12", "Livewire", "PHP", "MySQL", "PWA", "AI"],
+  "highlights": [
+    "Draft → review → publish workflow with revisions",
+    "Ad engine: zones, targeting, A/B rotation, click tracking",
+    "AI headline, summary, tags, translation and moderation",
+    "Breaking ticker, trending by real view speed, reactions",
+    "Installable app, offline reading and JSON API"
+  ],
+  "shot": "screenshots/01-home.jpg",
+  "accent": "#1d4ed8"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Maulakali Cable Car Live Status",
+  "tagline": "A live status app for passengers: is the cable car running, on break or stopped, with push notifications when it changes.",
+  "category": "Progressive web app",
+  "year": "2026",
+  "status": "Complete (v2)",
+  "stack": ["PHP", "MySQL", "PWA", "Web Push"],
+  "highlights": [
+    "Live running / break / stopped status with today's schedule",
+    "Automatic status from the operating timetable",
+    "Push notifications to passengers' phones",
+    "Operator panel with manual override and history log",
+    "Installable on phones, works offline"
+  ],
+  "shot": "screenshots/01-live-status.jpg",
+  "accent": "#dc2626"
+}

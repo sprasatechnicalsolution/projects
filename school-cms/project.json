@@ -1,0 +1,16 @@
+{
+  "name": "School & College CMS",
+  "tagline": "Website, CMS and admissions CRM for schools and colleges in Nepal: notices, news, events, gallery, downloads and admission leads, in English and Nepali.",
+  "category": "Education CMS",
+  "year": "2026",
+  "status": "Designed, in build",
+  "stack": ["PHP 8.2", "MySQL", "Google Drive storage", "cPanel hosting"],
+  "highlights": [
+    "Publish a notice with PDF in under 60 seconds",
+    "Expired notices and past events disappear on their own",
+    "English and Nepali for every piece of content",
+    "Admission leads tracked from enquiry to admitted",
+    "Photos and PDFs stored in Google Drive to save hosting space"
+  ],
+  "accent": "#b91c1c"
+}

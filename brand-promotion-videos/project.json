@@ -1,0 +1,17 @@
+{
+  "name": "Sprasa Promo Videos",
+  "tagline": "Ten promotional videos and Nepali radio-style ads for Sprasa Technical Solution, for YouTube, Facebook, Reels, TikTok and Shorts.",
+  "category": "Video & marketing",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["1080p video", "Nepali voice-over", "Subtitles (.srt)", "9:16 + 16:9"],
+  "highlights": [
+    "5 service promos with Nepali female voice-over",
+    "5 FM-style ads for festivals, restaurants, schools, hotels, shops",
+    "Landscape 16:9 and vertical 9:16 versions",
+    "Nepali subtitles and a thumbnail for each video",
+    "Storyboards for every scene"
+  ],
+  "shot": "screenshots/01-website-promo.jpg",
+  "accent": "#7c3aed"
+}

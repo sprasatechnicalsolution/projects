@@ -1,0 +1,17 @@
+{
+  "name": "Nepali News Websites",
+  "tagline": "WordPress news portals for Nepali publishers: Fastkhabar Online and Nepal Sandes, with Unicode publishing, stock market sections and custom themes.",
+  "category": "News websites",
+  "year": "2024",
+  "status": "Delivered to clients",
+  "stack": ["WordPress", "Custom theme", "Custom plugins", "Nepali Unicode"],
+  "highlights": [
+    "Fastkhabar Online: custom theme and plugins, built in 35 days",
+    "Nepal Sandes: Newspaper theme + TagDiv Composer, 25 days",
+    "Full Nepali Unicode publishing",
+    "Live stock market sections",
+    "Responsive and SEO-optimised"
+  ],
+  "shot": "screenshots/fastkhabar-online.jpg",
+  "accent": "#002d77"
+}

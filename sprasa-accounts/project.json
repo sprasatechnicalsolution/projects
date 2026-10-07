@@ -1,0 +1,16 @@
+{
+  "name": "Sprasa Accounts",
+  "tagline": "Billing and accounting software built to Nepal's IRD electronic billing rules: locked invoice numbers, PAN and VAT modes, reprint tracking and a full audit trail.",
+  "category": "Accounting software",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["PHP 8.2", "MariaDB", "XAMPP", "No build step"],
+  "highlights": [
+    "Issued bills can't be edited, only voided or credited",
+    "Fiscal-year serial numbers with no gaps",
+    "PAN mode and VAT mode (13% VAT, buyer PAN rule)",
+    "Original copy and stamped, logged reprints",
+    "Chart of accounts and ledger posting"
+  ],
+  "accent": "#047857"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Reception PMS",
+  "tagline": "Hotel front office software: reservations, room rack, check-in and check-out, guest bills with service charge and VAT, housekeeping and night audit.",
+  "category": "Hotel management software",
+  "year": "2026",
+  "status": "Complete",
+  "stack": ["PHP", "MySQL", "PDO", "No build step"],
+  "highlights": [
+    "Colour-coded room rack: sale status and housekeeping at a glance",
+    "No double bookings, even with two receptionists at once",
+    "Guest folios with Nepal-style service charge and VAT",
+    "Night audit that posts room nights and rolls the date",
+    "Occupancy, ADR, RevPAR and police guest register reports"
+  ],
+  "shot": "screenshots/02-room-rack.jpg",
+  "accent": "#0f6b5c"
+}
