@@ -92,7 +92,7 @@ Each folder is a **client-facing overview** of one project: what the client need
 | <img src="proteus-electronics/overview.jpg" width="160"> | [Proteus Electronics Projects](proteus-electronics/) | 15 embedded projects: traffic signals, water tank control, parking and more |
 | <img src="underground-cable-fault-detection/overview.jpg" width="160"> | [Underground Cable Fault Detection](underground-cable-fault-detection/) | Neural-network fault detection and location (B.E. major project) |
 | <img src="mapping-projects/overview.jpg" width="160"> | [OpenStreetMap Projects](mapping-projects/) | Smart Municipality, Blood Map and route mapping |
-| <img src="engineering-student-projects/overview.jpg" width="160"> | [Engineering & Data Projects](engineering-student-projects/) | QR reader, NEPSE machine learning, engineering notes |
+| <img src="engineering-student-projects/overview.jpg" width="160"> | [Engineering & Data Projects](engineering-student-projects/) | QR reader, NEPSE machine learning, RoboFootball |
 
 ---
 
@@ -158,7 +158,7 @@ Maintainer notes
   proteus-electronics               <- (GitHub) proteus-project
   underground-cable-fault-detection <- (GitHub) underground-transmission-line-fault-detection-using-ann
   mapping-projects                  <- (GitHub) Smart-Municipality, smart, bloodmap, osm_bosc, OSMProject
-  engineering-student-projects      <- (GitHub) qr_reader, machine-learning, nepse, engineeringnotes, robofootball
+  engineering-student-projects      <- (GitHub) qr_reader, machine-learning, nepse, robofootball
 - Not showcased: sprasa-invoice and sprasa-invoice-management (appear to be third-party/tutorial code), drafts, sprasamedia - Copy,
   "pradipsubedi dont open", personal/private repos (documents, mydetail, birthdaywish, award-archivements), practice repos
   (pandas, pythonclass, pythonproj, pythonp, jupyter*, machine_learning, laravel-test, git-file, webpage, website, housedesign,

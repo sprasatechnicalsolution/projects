@@ -1,6 +1,6 @@
 # Engineering & Data Projects
 
-**Student and research work in electronics, data science and teaching**
+**Student and research work in electronics, data science and robotics**
 
 ![Engineering projects overview](overview.jpg)
 
@@ -27,10 +27,6 @@ Analysis of the Nepal Stock Exchange (NEPSE), Nepal's main stock market.
 - Exploratory data analysis and feature engineering
 - Model training and evaluation for price movement
 - Groundwork for automated trading experiments
-
-## Electrical Engineering Notes
-
-Free, open PDF notes for electrical engineering students, from 1st to 8th semester, arranged by semester and subject: circuits, machines, power systems, power electronics, protection, control, microcontrollers and more, plus small Python scripts for engineering problems.
 
 ## RoboFootball
 

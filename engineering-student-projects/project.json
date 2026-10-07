@@ -1,6 +1,6 @@
 {
   "name": "Engineering & Data Projects",
-  "tagline": "Student and research work: a QR code attendance reader on Arduino, NEPSE stock analysis with machine learning, and open electrical engineering notes.",
+  "tagline": "Student and research work: a QR code attendance reader on Arduino, NEPSE stock analysis with machine learning, and an autonomous football robot concept.",
   "category": "Student & research work",
   "year": "2023–2024",
   "status": "Completed",
@@ -8,7 +8,6 @@
   "highlights": [
     "QR reader on Arduino shows student details live",
     "NEPSE stock analysis and prediction models",
-    "Electrical engineering notes for all 8 semesters",
     "Autonomous football robot concept"
   ],
   "accent": "#7c2d12"
