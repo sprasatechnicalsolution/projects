@@ -74,6 +74,7 @@ def render(folder: Path):
         page.write_text(build_html(meta, folder), encoding="utf-8")
         subprocess.run([chrome(), "--headless=new", "--disable-gpu", "--hide-scrollbars",
                         "--allow-file-access-from-files", f"--window-size={W},{H}",
+                        f"--user-data-dir={Path(tmp) / 'profile'}",
                         f"--screenshot={png}", page.as_uri()],
                        check=True, capture_output=True, timeout=60)
         Image.open(png).convert("RGB").save(folder / "overview.jpg", quality=88, optimize=True)
