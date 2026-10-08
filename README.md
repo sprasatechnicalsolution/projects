@@ -1,4 +1,4 @@
-# Pradip Subedi Â· Sprasa Technical Solution: Project Portfolio
+# Sprasa Technical Solution: Project Portfolio
 
 Websites, business software, e-commerce, design and engineering work, built in Chitwan, Nepal.
 Each folder is a **client-facing overview** of one project: what the client needed, what we built, screenshots and the technology used. Source code is not included here.
@@ -128,6 +128,7 @@ GitHub: [@sprasatechnicalsolution](https://github.com/sprasatechnicalsolution) Â
 <!--
 Maintainer notes
 - Each project folder holds: README.md (client overview), overview.jpg (cover), screenshots/, project.json (cover data).
+- Add a project:                python _tools/add_project.py new <folder>, fill it in, then publish <folder>  (guide: _tools/README.md)
 - Regenerate covers:            python _tools/make_cover.py --all
 - Pull images from a GitHub repo: python _tools/fetch_images.py <owner/repo> <path or /> <dest> [names...]
 - Screenshot running apps:      node _tools/shoot.js jobs.json   (uses Playwright from everest-pet-shop/node_modules + installed Chrome)
