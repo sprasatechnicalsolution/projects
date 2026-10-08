@@ -59,7 +59,7 @@ Each folder is a **client-facing overview** of one project: what the client need
 |---|---|---|
 | <img src="sprasa-media-cms/overview.jpg" width="160"> | [Sprasa Media News CMS](sprasa-media-cms/) | News portal platform with newsroom workflow, ad engine and AI tools |
 | <img src="nepali-news-websites/overview.jpg" width="160"> | [Nepali News Websites](nepali-news-websites/) | Fastkhabar Online and Nepal Sandes (WordPress) |
-| <img src="wordpress-themes-plugins/overview.jpg" width="160"> | [Sprasa WordPress Themes & Plugins](wordpress-themes-plugins/) | News and portfolio themes; SEO, ads, comments and maintenance plugins |
+| <img src="wordpress-themes-plugins/overview.jpg" width="160"> | [Sprasa WordPress Themes & Plugins](wordpress-themes-plugins/) | News and portfolio themes; SEO, ads, maintenance and portfolio-content plugins |
 | <img src="media-advertising-tools/overview.jpg" width="160"> | [Media & Advertising Tools](media-advertising-tools/) | Ad booking form, AdForge ad manager, SprasaSocial, background remover |
 
 ### Design and marketing

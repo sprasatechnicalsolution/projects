@@ -1,16 +1,16 @@
 {
   "name": "Sprasa WordPress Themes & Plugins",
-  "tagline": "Our own WordPress products: a news and magazine theme, a multipurpose portfolio theme, and plugins for SEO, ads and maintenance mode.",
+  "tagline": "Our own WordPress products: a news and magazine theme, a multipurpose portfolio theme, and plugins for SEO, ads, maintenance mode and portfolio content.",
   "category": "WordPress products",
   "year": "2026",
   "status": "Products",
-  "stack": ["WordPress", "PHP", "theme.json", "Schema.org"],
+  "stack": ["WordPress", "PHP", "theme.json", "Schema.org", "REST API", "PHPUnit"],
   "highlights": [
     "Sprasa News: magazine theme for Nepali news portals",
-    "Sprasa Portfolio: one theme for any professional",
-    "Sprasa SEO: titles, meta, schema, sitemaps, redirects",
-    "SprasaAds and SprasaAds Pro: image ads with targeting and A/B",
-    "Sprasa Maintenance: coming-soon pages with countdown"
+    "Sprasa Portfolio + Portfolio Core: one theme for any professional",
+    "Sprasa SEO: titles, schema, sitemaps; Pro adds redirects and 404 log",
+    "SprasaAds and SprasaAds Pro: image ads, targeting and A/B tests",
+    "Sprasa Maintenance: 5 editable templates, countdown, access control"
   ],
   "accent": "#21759b"
 }
